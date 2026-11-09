@@ -1,0 +1,4 @@
+.env
+*-state.json
+*-report.json
+*-session.json
